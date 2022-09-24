@@ -49,6 +49,6 @@ function findFactorialRecursive(number) {
 }
 
 findFactorialIterative(5);
-findFactorialRecursive(6);
+console.log(findFactorialRecursive(6));
 
   //If you want, try to add a base case condition for the recursive solution if the parameter given is less than 2
